@@ -1,6 +1,6 @@
 cask "castagno" do
-  version "0.1.0"
-  sha256 "8ba6487bdc55489e43c87effdb94aabccf381a9087378e55f082d4d573e4ee3e"
+  version "0.1.1"
+  sha256 "dbe2259fd2ac85c09e23165ef8b272cd272723063f05cdeb984beace080b3d93"
 
   url "https://github.com/lxgr/castagno/releases/download/v#{version}/Castagno-#{version}-macos-arm64.zip"
   name "Castagno"
