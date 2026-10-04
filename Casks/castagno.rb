@@ -18,10 +18,4 @@ cask "castagno" do
   }
 
   uninstall quit: "dev.castagno.app"
-
-  caveats <<~EOS
-    Castagno is ad hoc signed, not notarized.
-    Installation removes quarantine from Castagno.app only.
-    Allow Local Network access when prompted.
-  EOS
 end
